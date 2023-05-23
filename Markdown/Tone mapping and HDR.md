@@ -1,4 +1,4 @@
-Certainly! Here is a list of tone mapping and HDR (High Dynamic Range) imaging-related methods provided by the OpenCV library in C++, along with detailed explanations and examples for each method:
+Here is a list of tone mapping and HDR (High Dynamic Range) imaging-related methods provided by the OpenCV library in C++, along with detailed explanations and examples for each method:
 
 1. Tone Mapping:
 

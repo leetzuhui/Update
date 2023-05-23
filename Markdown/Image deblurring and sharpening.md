@@ -1,4 +1,4 @@
-Certainly! Here is a list of image deblurring and sharpening-related methods provided by the OpenCV library in C++, along with detailed explanations and examples for each method:
+Here is a list of image deblurring and sharpening-related methods provided by the OpenCV library in C++, along with detailed explanations and examples for each method:
 
 1. Image Deblurring:
 
